@@ -1,2 +1,1 @@
-# sqla
-sql assignment
+# SQL-Assignment
